@@ -144,15 +144,15 @@ Provides customer segmentation and demographic insights.
 
 ### Executive Summary Dashboard
 
-![Executive Summary Dashboard](Screenshots/executive_summary_dashboard.png)
+![Executive Summary Dashboard](Marketing_Funnel_and_Conversion_Performance_Analysis/Screenshots/executive_summary_dashboard.png)
 
 ### Campaign Performance Analysis
 
-![Campaign Performance Analysis](Screenshots/campaign_performance_analysis.png)
+![Campaign Performance Analysis](Marketing_Funnel_and_Conversion_Performance_Analysis/Screenshots/campaign_performance_analysis.png)
 
 ### Customer Insights Analysis
 
-![Customer Insights Analysis](Screenshots/customer_insights_analysis.png)
+![Customer Insights Analysis](Marketing_Funnel_and_Conversion_Performance_Analysis/Screenshots/customer_insights_analysis.png)
 
 ---
 
